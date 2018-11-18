@@ -1,0 +1,26 @@
+---
+---
+
+$undMain: #FFC90C;
+$neo: #F8931F;
+
+@import "{{ site.theme }}";
+
+header {
+  border-color: $undMain;
+  h1 {
+    color: $undMain;
+  }
+}
+h1, h2, h3, h4, h5, h6, hr {
+  color: $undMain;
+}
+li {
+  line-height: 1.5;
+}
+code.highlighter-rouge {
+  color: $neo;
+}
+hr {
+  border-color: $undMain;
+}

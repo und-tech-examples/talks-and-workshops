@@ -1,1 +1,15 @@
+title: Talks and Workshops
+description: >- # this means to ignore newlines until "baseurl:"
+  de la Unidad de Negocios Digitales (UND) del Grupo El Comercio (GEC)
+lang: es-PE
+baseurl: "/talks-and-workshops" # the subpath of your site, e.g. /blog
+url: "https://und-tech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  und-tech
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+github:
+  repository_url: "https://github.com/und-tech"
