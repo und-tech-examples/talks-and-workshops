@@ -25,7 +25,7 @@ layout: default
    - [Slides](https://docs.google.com/presentation/d/1qhLVkwcWxJ1KQwv3Vymd8lEq7VzrwAvA_4HmI3Ww2e0/edit?usp=sharing)
    - [Repositorio](https://github.com/und-tech/ProgFuncionalTaller)
 9. `Else sin censura (Decision Structures)` por [jansanchez][janSanchezGithub]
-   - Próximamente...
+   - [Slides](https://docs.google.com/presentation/d/1k9pEMlkzY9Fbichp50npVhGQUjzNmQ2cSrnR2KCWrKU/edit?usp=sharing)
 10. `Análisis Léxico` por [VictorJSV][victorSandovalGithub]
    - Próximamente...
 11. `Meta Programación` por [carmanuelz][carlosZarateGithub]
