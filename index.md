@@ -20,7 +20,7 @@ layout: default
 6. `Patrones Creacionales` por [MatsuoIV][pedroPairazamanGithub]
    - [Slides](https://docs.google.com/presentation/d/17iT9fkZje_I_srJ2VdKhCeMqAMUq5fGjUe_hIxG4mGo/edit?usp=sharing)
 7. `Programación orientada a protocolos` por [erikfloresq][erikFloresGithub]
-   - Slides
+   - [Slides](https://pop-deck-txdkvlccbt.now.sh/#0)
 8. `Programación Funcional` por [andru255][andresMunozGithub]
    - [Slides](https://docs.google.com/presentation/d/1qhLVkwcWxJ1KQwv3Vymd8lEq7VzrwAvA_4HmI3Ww2e0/edit?usp=sharing)
    - [Repositorio](https://github.com/und-tech/ProgFuncionalTaller)
