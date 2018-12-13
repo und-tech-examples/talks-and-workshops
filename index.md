@@ -27,7 +27,7 @@ layout: default
 9. `Else sin censura (Decision Structures)` por [jansanchez][janSanchezGithub]
    - [Slides](https://docs.google.com/presentation/d/1k9pEMlkzY9Fbichp50npVhGQUjzNmQ2cSrnR2KCWrKU/edit?usp=sharing)
 10. `Análisis Léxico` por [VictorJSV][victorSandovalGithub]
-   - Próximamente...
+      - [Slides](https://drive.google.com/open?id=1kxtIe7YuBFFlEloI-Nn_4k87-ICEuFsu3xQWJpD1daI)
 11. `Meta Programación` por [carmanuelz][carlosZarateGithub]
    - Próximamente...
 11. `Arquitectura Frontend` por [lavaldi][claudiaValdiviesoGithub]
