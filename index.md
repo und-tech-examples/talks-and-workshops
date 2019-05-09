@@ -9,18 +9,18 @@ layout: default
 ## Febrero
 1. `3 Principios de DevOps` por [Carlos Zárate][carlosZarateGithub]
    - [Slides](https://docs.google.com/presentation/d/1asEcWZXUoScGjBAev_mMjh5tpJzA5Ope2jouNsX3tlY/edit?usp=sharing)
-2. `Agile: Valores y principios` por Pedro Vega
+2. `Agile: Valores y principios` por [Pedro Vega][pedroVegaLinkedIn]
    - [Slides](https://docs.google.com/presentation/d/1kY4kZQhDgta_oqSIAjuNAXP981Dw9xdcmAEHM_o36qI/edit?usp=sharing)
 
 ## Marzo
-1. `Recursos Customizados para Cloudformation` por [John Montero][johnMonteroGithub]
-   - 06/03/2019
-2. `Taller de Motivación` por Pedro Vega
-   - 13/03/2019
-3. `Patrón delegate en iOS` por [Erik Flores][erikFloresGithub]
-   - 20/03/2019
-4. `Deuda Técnica` por [Oscar Sanchez][oscarSanchezGithub]
-   - 27/03/2019
+1. `Taller de Motivación` por [Pedro Vega][pedroVegaLinkedIn]
+   - [Slides](https://docs.google.com/presentation/d/1B0lnCQb58iRvdJQYalB2kbHyOZ24HIQBV1VjwU3-p7M/edit?usp=sharing)
+2. `Deuda Técnica` por [Oscar Sanchez][oscarSanchezGithub]
+   - [Slides](https://docs.google.com/presentation/d/1WEwU62DNj19E3tFpZs0UHU4Rn1Ur8sFhJHjQt4eIZQ0/edit?usp=sharing)
+
+## Mayo
+1. `Growth Mindset y Agile: Un estilo de vida` por [Manuela Flores](https://twitter.com/manuflowers_)
+  - [Slides](https://docs.google.com/presentation/d/1BTIAuc4h1G_bqF5SJktc0KdJb43cbqNsUoCKwF32avA/edit?usp=sharing)
 
 [johnMonteroGithub]: https://github.com/johnmontero
 [pedroPairazamanGithub]: https://github.com/MatsuoIV
@@ -31,6 +31,7 @@ layout: default
 [carlosZarateGithub]: https://github.com/carmanuelz
 [claudiaValdiviesoGithub]: https://github.com/lavaldi
 [oscarSanchezGithub]: https://github.com/dev-lusaja
+[pedroVegaLinkedIn]: https://www.linkedin.com/in/pakgva/
 
 ---
 
